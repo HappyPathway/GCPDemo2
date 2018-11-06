@@ -68,7 +68,7 @@ module "network" {
 
   auto_create_subnetworks = "false"
   description = "Darnold Demo Network"
-  name = "gcp-demo"
+  name = "gcp-demo2"
 }
   
 // Terraform outputs
